@@ -6,6 +6,7 @@ public class GithubIlkCalisma {
 	 
 		
 		System.out.println("Merhaba Github");
+		System.out.println("Merhaba Eclipse");
 
 	}
 
